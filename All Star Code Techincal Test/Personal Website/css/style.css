@@ -1,0 +1,7 @@
+.container {
+    /* Sets the width of all container objects*/
+    width: 960px;
+    /* centers the container section*/
+    margin: 0 auto;
+    
+}
